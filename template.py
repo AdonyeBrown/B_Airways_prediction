@@ -3,7 +3,7 @@ from pathlib import Path
 import logging
 
 
-package_name = "Prediction"
+package_name = "HolidayBuyingPrediction"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
