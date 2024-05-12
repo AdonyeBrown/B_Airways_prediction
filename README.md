@@ -67,6 +67,3 @@ To set up the project environment, run the following commands:
 git clone https://github.com/AdonyeBrown/B_Airways_prediction.git
 cd book-complete-prediction
 pip install -r requirements.txt
-
-## Conclusion
-The empowered customer is here to stay, and the buying cycle will continue to evolve. Businesses that recognize and adapt to these changes will be better positioned to meet the needs of the modern consumer.
